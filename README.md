@@ -6,7 +6,9 @@ Laureato magistrale in Scienze dell'economia (LM-56, Università di Cagliari). L
 
 Competenze
 Analisi dati e statistica: R, Stata, Matlab, Excel, SQL (livello base)
+
 Dashboard e visualizzazione: Excel, R Studio, Power BI (in apprendimento)
+
 Analisi sportiva: tagging di eventi con Longomatch, KPI di squadra e giocatori, lavagne e prospetti tattici
 
 Progetti
