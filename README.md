@@ -1,4 +1,4 @@
-# Alberto Marchi
+Alberto Marchi
 
 Analista dati
 
@@ -6,13 +6,11 @@ Laureato magistrale in Scienze dell'economia (LM-56, Università di Cagliari). L
 
 Competenze
 Analisi dati e statistica: R, Stata, Matlab, Excel, SQL (livello base)
-
 Dashboard e visualizzazione: Excel, R Studio, Power BI (in apprendimento)
-
 Analisi sportiva: tagging di eventi con Longomatch, KPI di squadra e giocatori, lavagne e prospetti tattici
-
 Progetti
 
+Sezione in aggiornamento: qui verranno elencate le cartelle dei progetti.
 
 Formazione
 Laurea magistrale in Scienze dell'economia (LM-56), Università di Cagliari, 2026
