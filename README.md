@@ -7,7 +7,7 @@ Laureato magistrale in Scienze dell'Economia (LM-56) presso l'Università di Cag
 
 Utilizzo principalmente **R, Excel e Stata** per elaborare dataset, sviluppare analisi quantitative e comunicare i risultati attraverso grafici e indicatori statistici.
 
-Ho maturato esperienza nell'analisi di dati economici e sportivi, con particolare interesse per la **Football Data Analytics**. Collaboro con gli analisti dell'Associazione Italiana Analisti di Performance Calcio (AIAPC).
+Ho maturato esperienza nell'analisi di dati economici e sportivi, con particolare interesse per la **Football Data Analytics**. 
 
 ---
 
